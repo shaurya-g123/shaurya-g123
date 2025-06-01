@@ -51,7 +51,7 @@
 
 #### Data Analysis  
 
-| <img alt="NumPy" src="https://numpy.org/images/favicon.ico" width="40" /><br>NumPy | <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" /><br>Pandas | <img alt="Matplotlib" src="https://matplotlib.org/_static/images/favicon.png" width="40" /><br>Matplotlib | <img alt="SciPy" src="https://docs.scipy.org/doc/scipy/reference/scipy-logo.svg" width="40" /><br>SciPy |
+| <img alt="NumPy" src="https://numpy.org/images/favicon.ico" width="40" /><br>NumPy | <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" /><br>Pandas | <img alt="Matplotlib" src="https://matplotlib.org/stable/_static/logo_dark.svg" width="40" /><br>Matplotlib | <img alt="SciPy" src="https://pypi-camo.freetls.fastly.net/e04fcdcd86e25efd2d53f9dd07e2e57e95969f4b/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73636970792f73636970792f6d61696e2f646f632f736f757263652f5f7374617469632f6c6f676f2e737667" width="40" /><br>SciPy |
 | :---: | :---: | :---: | :---: |
 
 <br /><br />
