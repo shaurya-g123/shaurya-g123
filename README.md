@@ -43,7 +43,7 @@
 
 #### Computer Vision  
 
-| <img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/OpenCV_Logo_with_text_svg_version.svg" width="40" /><br>cv2 | <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /><br>TensorFlow | <img alt="Pillow" src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo-light-text.svg" width="40" /><br>Pillow | <img alt="YOLO" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/dog.jpg" width="40" /><br>YOLO |
+| <img alt="OpenCV" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRklXyWQy1ditXPl8oBPdbcdjxuiVU3Z3VA&s" width="40" /><br>cv2 | <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /><br>TensorFlow | <img alt="Pillow" src="https://python-pillow.github.io/assets/images/pillow-logo-248x250.png" width="40" /><br>Pillow | <img alt="YOLO" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/dog.jpg" width="40" /><br>YOLO |
 | :---: | :---: | :---: | :---: |
 
 
