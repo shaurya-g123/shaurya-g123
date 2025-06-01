@@ -26,9 +26,20 @@
 <div align="center">
 
 #### Languages  
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
-<img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp;
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <div style="text-align: center; font-size: 12px;">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br>
+    Python
+  </div>
+  <div style="text-align: center; font-size: 12px;">
+    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /><br>
+    C
+  </div>
+  <div style="text-align: center; font-size: 12px;">
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br>
+    HTML5
+  </div>
+</div>
 
 <br /><br />
 
