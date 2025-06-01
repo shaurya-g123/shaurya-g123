@@ -35,7 +35,13 @@
 
 #### Hardware  
 
-| <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" /><br>Arduino |  <img alt="ESP" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Espressif_logo.svg" width="40" /><br>ESPs | <img alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Raspberry_Pi_Logo.svg/1024px-Raspberry_Pi_Logo.svg.png" width="40" /><br>Raspberry Pi | <img alt="IoT" src="https://cdn-icons-png.flaticon.com/512/1239/1239337.png" width="40" /><br>IoT (Sensors & Actuators) |
+| <img alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+        width="40" /><br>Arduino | <img alt="ESP"
+        src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" width="40" /><br>ESPs | <img
+        alt="Raspberry Pi"
+        src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"
+        width="40" /><br>Raspberry Pi | <img alt="IoT" src="https://cdn.worldvectorlogo.com/logos/amazon-internet-of-things.svg"
+        width="40" /><br>IoT (Sensors & Actuators) |
 | :---: | :---: | :---: | :---: |
 
 
