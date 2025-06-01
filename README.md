@@ -34,34 +34,33 @@
 <br /><br />
 
 #### Hardware  
-<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Logo.svg" width="50" height="40" />&nbsp;
-<img alt="ESP32" src="https://img.icons8.com/color/48/null/esp32.png" width="40" height="40" />&nbsp;
-<img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" />&nbsp;
-<img alt="IoT" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-iot-internet-of-things-flaticons-lineal-color-flat-icons.png" width="40" height="40" />
+
+| <img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Logo.svg" width="40" /><br>Arduino | <img alt="ESP" src="https://upload.wikimedia.org/wikipedia/commons/3/37/ESP8266_logo.svg" width="40" /><br>ESPs | <img alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Raspberry_Pi_Logo.svg" width="40" /><br>Raspberry Pi | <img alt="IoT" src="https://upload.wikimedia.org/wikipedia/commons/7/70/IoT_Icon.svg" width="40" /><br>IoT (Sensors & Actuators) |
+| :---: | :---: | :---: | :---: |
+
 
 <br /><br />
 
 #### Computer Vision  
-<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenCV_logo.svg" width="40" height="40" />&nbsp;
-<img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />&nbsp;
-<img alt="Pillow" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Pillow_logo.svg" width="40" height="40" />&nbsp;
-<img alt="YOLO" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/yolo-logo.png" width="40" height="40" />
+
+| <img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/OpenCV_Logo_with_text_svg_version.svg" width="40" /><br>cv2 | <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /><br>TensorFlow | <img alt="Pillow" src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo-light-text.svg" width="40" /><br>Pillow | <img alt="YOLO" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/dog.jpg" width="40" /><br>YOLO |
+| :---: | :---: | :---: | :---: |
+
 
 <br /><br />
 
 #### Data Analysis  
-<img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />&nbsp;
-<img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />&nbsp;
-<img alt="Matplotlib" src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" />&nbsp;
-<img alt="SciPy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/SciPy_logo.svg" width="40" height="40" />
+
+| <img alt="NumPy" src="https://numpy.org/images/favicon.ico" width="40" /><br>NumPy | <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" /><br>Pandas | <img alt="Matplotlib" src="https://matplotlib.org/_static/images/favicon.png" width="40" /><br>Matplotlib | <img alt="SciPy" src="https://docs.scipy.org/doc/scipy/reference/scipy-logo.svg" width="40" /><br>SciPy |
+| :---: | :---: | :---: | :---: |
 
 <br /><br />
 
 #### LLM & Web Frameworks  
-<img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" />&nbsp;
-<img alt="LangChain" src="https://avatars.githubusercontent.com/u/14900775?s=200&v=4" width="40" height="40" />&nbsp;
-<img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />&nbsp;
-<img alt="Gradio" src="https://gradio.app/assets/gradio-icon.svg" width="40" height="40" />
+
+| <img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" /><br>Transformers | <img alt="LangChain" src="https://avatars.githubusercontent.com/u/97630546?s=200&v=4" width="40" /><br>LangChain | <img alt="Flask" src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="40" /><br>Flask | <img alt="Gradio" src="https://gradio.app/assets/gradio-icon-color.svg" width="40" /><br>Gradio |
+| :---: | :---: | :---: | :---: |
+
 
 </div>
 
