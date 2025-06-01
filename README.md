@@ -58,7 +58,7 @@
 
 #### LLM & Web Frameworks  
 
-| <img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" /><br>Transformers | <img alt="LangChain" src="https://avatars.githubusercontent.com/u/97630546?s=200&v=4" width="40" /><br>LangChain | <img alt="Flask" src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="40" /><br>Flask | <img alt="Gradio" src="https://gradio.app/assets/gradio-icon-color.svg" width="40" /><br>Gradio |
+| <img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" /><br>Transformers | <img alt="LangChain" src="https://avatars.githubusercontent.com/u/97630546?s=200&v=4" width="40" /><br>LangChain | <img alt="Flask" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" width="40" /><br>Flask | <img alt="Gradio" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/gradio-color.png" width="40" /><br>Gradio |
 | :---: | :---: | :---: | :---: |
 
 
