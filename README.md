@@ -1,16 +1,12 @@
-<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,7F00FF&height=160&section=header&text=Shaurya%20Gupta&fontSize=56&fontWeight=700&fontColor=00FFFF&animation=fadeIn" />
 </p>
 
-<p align="center" style="font-family: monospace; color:#00FFFF; font-size:18px; margin-top:-15px;">
-  <i>Engineering mind on a mission to build smarter solutions for a better tomorrow.</i><br>
-  <span style="color:#7F00FF;">“It’s never good until you make it good.”</span>
+<p align="center" style="font-size: 18px; font-family: monospace; color:#00FFFF;">
+  Engineering mind on a mission to build smarter solutions for a better tomorrow.<br />
+  <em style="color:#7F00FF;">“It’s never good until you make it good.”</em>
 </p>
 
----
-
-<!-- Dark/Light Theme Toggle Badge -->
 <p align="center">
   <a href="https://github.com/shaurya-g123?tab=overview&theme=dark" target="_blank">
     <img src="https://img.shields.io/badge/Theme-Dark-121212?style=for-the-badge&logo=github&logoColor=00FFFF" alt="Dark Theme" />
@@ -22,98 +18,92 @@
 
 ---
 
-## 🖥️ Languages I am proficient in
+### 💻 Tech Stack
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<div align="center">
 
----
+#### Languages  
+<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
+<img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp;
+<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 
-## 🛠️ Hardware I Use Commonly
+<br /><br />
 
-<p align="center">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="ESP" src="https://img.shields.io/badge/ESP-2C2C54?style=for-the-badge&logo=esp8266&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img alt="IoT" src="https://img.shields.io/badge/IoT-00CED1?style=for-the-badge&logo=iot&logoColor=white" />
-</p>
+#### Hardware  
+<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Logo.svg" width="50" height="40" />&nbsp;
+<img alt="ESP32" src="https://img.icons8.com/color/48/null/esp32.png" width="40" height="40" />&nbsp;
+<img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" />&nbsp;
+<img alt="IoT" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-iot-internet-of-things-flaticons-lineal-color-flat-icons.png" width="40" height="40" />
 
----
+<br /><br />
 
-## 🤖 Computer Vision
+#### Computer Vision  
+<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenCV_logo.svg" width="40" height="40" />&nbsp;
+<img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />&nbsp;
+<img alt="Pillow" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Pillow_logo.svg" width="40" height="40" />&nbsp;
+<img alt="YOLO" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/yolo-logo.png" width="40" height="40" />
 
-<p align="center">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Pillow" src="https://img.shields.io/badge/Pillow-0E6BA8?style=for-the-badge&logo=pillow&logoColor=white" />
-  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=darkreader&logoColor=white" />
-</p>
+<br /><br />
 
----
+#### Data Analysis  
+<img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />&nbsp;
+<img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />&nbsp;
+<img alt="Matplotlib" src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" />&nbsp;
+<img alt="SciPy" src="https://upload.wikimedia.org/wikipedia/commons/0/05/SciPy_logo.svg" width="40" height="40" />
 
-## 📊 Data Analysis
+<br /><br />
 
-<p align="center">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-D3461C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge" />
-</p>
-
----
-
-## 🤖 Large Language Models & Web Frameworks
-
-<p align="center">
-  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=transformers&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-006699?style=for-the-badge" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logo=gradio&logoColor=white" />
-</p>
-
----
-
-## 🎯 Special Skills & Areas of Focus
-
-<p align="center" style="font-weight:bold; color:#00FFFF;">
-  IoT | Robotics | Computer Vision | Hardware Robotics | Embedded Systems | Social Media Strategy
-</p>
-
----
-
-## 🚀 Major Projects
-
-<div style="background:#111; border-radius:20px; padding:20px; box-shadow: 0 0 20px #00FFFF;">
-  
-### 1) Ambulance Lane Management  
-_A smart system using satellite detection and GPS to give ambulances priority by controlling traffic signals in real-time._  
-💡 Real-time traffic control | 🚦 Priority signaling | 🌍 Satellite GPS integration  
-
----
-
-### 2) Farmer Irrigation System  
-_Automated irrigation setup using soil moisture sensors and IoT for efficient water usage in farming._  
-🌱 Smart irrigation | 💧 Water efficiency | 📡 IoT-based sensors  
-
----
-
-### 3) Cattle Identity Card  
-_A system to track and identify cattle using RFID tags and an app interface for better livestock management._  
-🐄 RFID tracking | 📱 App integration | 🐮 Livestock monitoring  
-
----
-
-### 4) People Counter  
-_Designed a real-time people-counting device for classrooms, libraries, or events, with practical scalability and privacy-friendly implementation using computer vision for disaster management._  
-👥 Real-time counting | 🔒 Privacy-focused | 📊 Scalable design  
-
----
-
-### 5) YOGai  
-_Designed a real time yoga pose analyser for analysing yoga poses for prevention of injuries._  
-🧘 AI pose detection | 🩺 Injury prevention | 📈 Real-time feedback  
+#### LLM & Web Frameworks  
+<img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" />&nbsp;
+<img alt="LangChain" src="https://avatars.githubusercontent.com/u/14900775?s=200&v=4" width="40" height="40" />&nbsp;
+<img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />&nbsp;
+<img alt="Gradio" src="https://gradio.app/assets/gradio-icon.svg" width="40" height="40" />
 
 </div>
+
+---
+
+### 🎯 Special Skills & Areas of Focus  
+IoT | Robotics | Computer Vision | Hardware Robotics | Embedded Systems | Social Media Strategy
+
+---
+
+### 🚀 Major Projects
+
+<div align="center" markdown="1">
+
+| Project Name              | Description                                                                                                 |
+|--------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Ambulance Lane Management** | Smart system using satellite detection and GPS to give ambulances priority by controlling traffic signals in real-time. |
+| **Farmer Irrigation System**   | Automated irrigation setup using soil moisture sensors and IoT for efficient water usage in farming.                |
+| **Cattle Identity Card**       | System to track and identify cattle using RFID tags and an app interface for better livestock management.            |
+| **People Counter**             | Real-time people-counting device for classrooms, libraries, or events, with privacy-friendly computer vision implementation. |
+| **YOGai**                     | Real-time yoga pose analyser to prevent injuries by analyzing poses using AI.                                      |
+
+</div>
+
+---
+
+### 📫 Let’s Connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaurya-g123" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/shaurya_g123" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/shaurya-g123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaurya-g123&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-g123&theme=radical" />
+</p>
