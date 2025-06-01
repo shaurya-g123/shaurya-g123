@@ -6,6 +6,9 @@
   Engineering mind on a mission to build smarter solutions for a better tomorrow.<br />
   <em style="color:#7F00FF;">“It’s never good until you make it good.”</em>
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaurya-g123" alt="Profile Visitor Badge" />
+</p>
 
 <p align="center">
   <a href="https://github.com/shaurya-g123?tab=overview&theme=dark" target="_blank">
